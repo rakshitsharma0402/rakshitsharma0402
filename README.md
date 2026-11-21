@@ -1,10 +1,10 @@
-## Hi, I'm Rakshit
+### Hi there! 👋, This is **Rakshit Sharma** :bowtie:
 
 I'm a software engineer who builds backend systems and the data flows behind them: APIs, scheduled jobs, ETL pipelines and the validation rules that keep data trustworthy.
 
 Right now I'm a Software Engineer at **Sanskar Technolab**, building backend features on Frappe/ERPNext in Python. Before that, I built Apache Airflow pipelines on AWS at **Fintricity** and worked on production incidents with SRE teams on the **Equifax** account at Teleperformance.
 
-### Projects
+### 👨🏻‍💻 Check out my Projects
 
 | Project | What it is | Stack |
 |---|---|---|
