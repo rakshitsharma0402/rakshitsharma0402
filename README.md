@@ -1,26 +1,18 @@
-<div align="center">
-  
-  <img src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/d56fda23-ec56-4983-8468-17208e1a3dac" width="200" height="200">
-  
-  ### Hi there! 👋, This is **Rakshit Sharma** :bowtie:
+## Hi, I'm Rakshit
 
-  <!-- <br />
+I'm a software engineer who builds backend systems and the data flows behind them: APIs, scheduled jobs, ETL pipelines and the validation rules that keep data trustworthy.
 
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakshitKumar04&count_private=true&show_icons=false&theme=ayu-mirage&hide_title=true)
+Right now I'm a Software Engineer at **Sanskar Technolab**, building backend features on Frappe/ERPNext in Python. Before that, I built Apache Airflow pipelines on AWS at **Fintricity** and worked on production incidents with SRE teams on the **Equifax** account at Teleperformance.
 
-  <br /> -->
+### Projects
 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshit-kumar-0402/)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RakshitSharma04)
-  
-  <br />
-    
-</div>
-  
----
-
-
-<br />
+| Project | What it is | Stack |
+|---|---|---|
+| [DemurrageDesk](https://github.com/rakshitsharma0402/DemurrageDesk) | Local RAG assistant for shipping tariffs. Answers with verified citations and calculates demurrage charges in Python, not in the model | Python, Gemma (Ollama), ChromaDB, Streamlit |
+| [Veriflow](https://github.com/rakshitsharma0402/Veriflow) | Data governance app: configurable validation rules, exception escalation and a full audit trail | Python, Frappe, MariaDB |
+| [DataTierX](https://github.com/rakshitsharma0402/X-DataTierX) | Ingests CSV datasets, stores their metadata and classifies each into HOT, WARM or COLD storage tiers | Java, Spring Boot, PostgreSQL |
+| [Vendor Portal](https://github.com/rakshitsharma0402/vendor_portal) | ERPNext app for vendor onboarding, purchase controls and automatic supplier rating, with 37 tests | Python, Frappe, ERPNext |
+| [AlgoForge](https://github.com/rakshitsharma0402/AlgoForge) | Data structures and algorithms library modelled after `java.util` | Java, JUnit 5 |
 
 ## 🔨 My recent Pull Requests!
 
@@ -59,35 +51,13 @@
 
 <br/>
 
----
+### Stack
 
-<br />
+- **Languages:** Python, Java, SQL, JavaScript
+- **Data:** Apache Airflow, ETL, PostgreSQL, MariaDB, MySQL, Redis
+- **Backend:** REST APIs, Spring Boot, Frappe/ERPNext
+- **Cloud & DevOps:** AWS, Docker, Linux, GitHub Actions, Nginx
 
-### 👨🏻‍💻 Check out my Projects
+### Find me
 
-- [Forest Fire Detection System](https://github.com/RakshitKumar04/Forest-Fire-Detection-System)<br>
-  Early detecting forest ﬁres using IoT and deep learning algorithms.<br>
-  Sensor used: 1- ESP32 Camera 2- Air Quality Sensor 3- Temperature & Humidity Sensor 4- Buzzer 5- Bulb 6- Infrared Flame Sensor.<br>
-  Algorithm used: CNN.<br>
-
-- [Face Recognition](https://github.com/RakshitKumar04/Face_Recognition)<br>
-  Face Recognizer identiﬁes the face of an individual by their name with the help of their facial features.<br>
-  Algorithms used: 1- Haar Cascade for face detection 2- LBPH Algorithm for face recognition.<br>
-
-- [Calculator](https://github.com/RakshitKumar04/Calculator)<br>
-  Calculator does some basic calculations.<br>
-  There are currently two versions of the project: 1- CLI-calculator 2- GUI-calculator<br>
-  This repository is open to all for contribution, especially at the time of Hactober Fest<br>
-
-- [gRPC](https://github.com/RakshitKumar04/gRPC)<br>
-  Illustrated the use of gRPC.<BR>
-
-- [IoT Smart Kitchen](https://github.com/RakshitKumar04/IoT_Smart_Kitchen)<br>
-  A smart IoT device to make your kitchen more eﬃcient.<br>
-  Sensor used: 1- Motion Sensor 2- Air Quality Sensor 3- Temperature & Humidity Sensor 4- Buzzer 5- Bulb<br>
-  
-- [Draw to Develop](https://github.com/RakshitKumar04/Draw2Develop-2)<br>
-  A web application where you upload pictorial drawings of major HTML components which are transformed into a single page website via Deep Learning. <br>
-  Libraries used: 1‑ TensorFlow 2‑ TensorFlow (Keras) <br>
-  Functions used: 1‑ ELU 2‑ ReLU 3‑ Sigmoid <br>
-  Algorithm used: CNN <br>
+[LinkedIn](https://www.linkedin.com/in/rakshitsharma0402)
