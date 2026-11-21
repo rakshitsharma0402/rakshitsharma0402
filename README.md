@@ -1,4 +1,10 @@
-### Hi there! 👋, This is **Rakshit Sharma** :bowtie:
+<div align="center">
+
+  <img src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/d56fda23-ec56-4983-8468-17208e1a3dac" width="200" height="200">
+
+  ### Hi there! 👋, This is **Rakshit Sharma** :bowtie:
+
+</div>
 
 I'm a software engineer who builds backend systems and the data flows behind them: APIs, scheduled jobs, ETL pipelines and the validation rules that keep data trustworthy.
 
