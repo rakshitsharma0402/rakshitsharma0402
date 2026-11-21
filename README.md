@@ -10,7 +10,7 @@ I'm a software engineer who builds backend systems and the data flows behind the
 
 Right now I'm a Software Engineer at **Sanskar Technolab**, building backend features on Frappe/ERPNext in Python. Before that, I built Apache Airflow pipelines on AWS at **Fintricity** and worked on production incidents with SRE teams on the **Equifax** account at Teleperformance.
 
-### 👨🏻‍💻 Check out my Projects
+## 👨🏻‍💻 Check out my Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -20,7 +20,7 @@ Right now I'm a Software Engineer at **Sanskar Technolab**, building backend fea
 | [Vendor Portal](https://github.com/rakshitsharma0402/vendor_portal) | ERPNext app for vendor onboarding, purchase controls and automatic supplier rating, with 37 tests | Python, Frappe, ERPNext |
 | [AlgoForge](https://github.com/rakshitsharma0402/AlgoForge) | Data structures and algorithms library modelled after `java.util` | Java, JUnit 5 |
 
-## 🔨 My recent Pull Requests!
+## 🌍 Open Source Contributions
 
 - <h3>Kubernetes <img class="dark-light" style="height: 1em; vertical-align:-40%" src="https://github.com/RakshitKumar04/RakshitKumar04/assets/72027411/eae8e61d-f6c4-441a-884b-0867ae9f6792"></h3>
 
@@ -57,13 +57,13 @@ Right now I'm a Software Engineer at **Sanskar Technolab**, building backend fea
 
 <br/>
 
-### Stack
+## 🛠️ Stack
 
 - **Languages:** Python, Java, SQL, JavaScript
 - **Data:** Apache Airflow, ETL, PostgreSQL, MariaDB, MySQL, Redis
 - **Backend:** REST APIs, Spring Boot, Frappe/ERPNext
 - **Cloud & DevOps:** AWS, Docker, Linux, GitHub Actions, Nginx
 
-### Find me
+## 📫 Find me
 
 [LinkedIn](https://www.linkedin.com/in/rakshitsharma0402)
